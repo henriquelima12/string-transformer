@@ -6,7 +6,7 @@
 * IDE (Eclipse, IntelliJ, etc...)
 * Java 17
 * Maven 3.9.2
-* MYSQL 8.0.33
+* MySQL 8.0.33
 * HTTP Client (Postman, Insomnia, etc...)
 
 *Obs: Antes de executar, criar um novo banco de dados chamado "db", com nome de usuario "root" e senha "root"
