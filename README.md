@@ -13,4 +13,5 @@
 
 ### Endpoints da aplicação
 
-* obter os pedidos criados: POST http://localhost:8081/strings/{string}
+* salvar string e obtê-la invertida:
+#### POST http://localhost:8081/strings/{string}
