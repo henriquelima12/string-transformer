@@ -13,6 +13,6 @@
 
 ### Endpoints da aplicação
 
-### obter os pedidos criados
-### POST http://localhost:8081/strings/{string}
+* obter os pedidos criados
+POST http://localhost:8081/strings/{string}
 
